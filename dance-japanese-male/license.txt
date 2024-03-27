@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dance-japanese-male
+* source:	https://sketchfab.com/3d-models/dance-japanese-male-555f9eaae25d4e23bdd0dee25e5bfba3
+* author:	ddd (https://sketchfab.com/endonoriko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dance-japanese-male" (https://sketchfab.com/3d-models/dance-japanese-male-555f9eaae25d4e23bdd0dee25e5bfba3) by ddd (https://sketchfab.com/endonoriko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
